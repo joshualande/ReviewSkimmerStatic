@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>The Dark Knight Rises</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=The&#32;Dark&#32;Knight&#32;Rises"><img class="img-polaroid" src="media/poster_thumbnail_1345836.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"There's even <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe movie is not <a><b>perfect</b></a>, agreed.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur38453458&quot>Mind Freak</a><br><br>&quotHowever it's one of the best movies, and it's pretty damn good, even if it's not <a><b>perfect</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur38453458&quot>Mind Freak</a><br><br>&quotTDK is too <a><b>perfect</b></a>, and we all know that.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur38453458&quot>Mind Freak</a><br><br>&quotThe movie did have its problems as well, it was not <a><b>perfect</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur38453458&quot>Mind Freak</a>" 
+                     data-original-title="More <b>perfect</b> Reviews">
+                     <b>perfect</b></a> order in Bane's revolution."</span>&#8212;<a href="http://www.imdb.com/user/ur35159054">ammerender-singh</a><br/><br/>
+          
+          <span style="font-size:24px">"The Dark Knight Rises is is emotionally riveting and <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotAs a film though, this is <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23582121&quot>Grey Gardens</a><br><br>&quotIt's also a fitting end of this <a><b>amazing</b></a> trilogy.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur25517909&quot>Mek Torres</a><br><br>&quotGary Oldman did a great job, not to mention that Joseph Gordon-Levitt did an <a><b>amazing</b></a> job as well.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur38453458&quot>Mind Freak</a><br><br>&quotThe cast chemistry was <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26925845&quot>geopartin</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a> to view."</span>&#8212;<a href="http://www.imdb.com/user/ur34960632">John</a><br/><br/>
+          
+          <span style="font-size:24px">"The film featured <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotBut hey, The Dark Knight Rises is such an <a><b>excellent</b></a> grand experience.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur25517909&quot>Mek Torres</a><br><br>&quotThe acting was <a><b>excellent</b></a>, consistently to the previous movies.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur34836017&quot>paco sanchez</a><br><br>&quotThe cast does an <a><b>excellent</b></a> jobs in their roles.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur44142380&quot>George May</a><br><br>&quotTom Hardy also did an <a><b>excellent</b></a> job as Bane.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur39896291&quot>GhostlyTrainReviews</a>" 
+                     data-original-title="More <b>excellent</b> Reviews">
+                     <b>excellent</b></a> performances, by all the cast."</span>&#8212;<a href="http://www.imdb.com/user/ur23582121">Grey Gardens</a><br/><br/>
+          
+          <span style="font-size:24px">"Michael Cain is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotHowever the ending is just <a><b>fantastic</b></a>, so emotional and bring the trilogy to a very satisfying end.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23582121&quot>Grey Gardens</a><br><br>&quotThe Dark Knight Rises is still a <a><b>fantastic</b></a> and grand cinematic experience.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur25517909&quot>Mek Torres</a><br><br>&quotThe cast, acting, and dialogue were all <a><b>fantastic</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur38453458&quot>Mind Freak</a><br><br>&quotThe soundtrack was <a><b>fantastic</b></a> and had some really neat shots.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur30431801&quot>Roy O'Connor</a>" 
+                     data-original-title="More <b>fantastic</b> Reviews">
+                     <b>fantastic</b></a>, as he always is."</span>&#8212;<a href="http://www.imdb.com/user/ur34960632">John</a><br/><br/>
+          
+          <span style="font-size:24px">"The rest of the leads are similarly <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotWhile the first sequence is downright <a><b>awesome</b></a>, what follows afterward is distinctly underwhelming.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19037027&quot>mohan59</a><br><br>&quotBut is it incredible, <a><b>awesome</b></a>, and everything we could have hoped for?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur34238302&quot>Alex  Blume</a><br><br>&quotWords cannot adequately describe how <a><b>awesome</b></a> this movie is!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19699286&quot>Movie Critic</a><br><br>&quotBasically, an <a><b>awesome</b></a> film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur34836017&quot>paco sanchez</a>" 
+                     data-original-title="More <b>awesome</b> Reviews">
+                     <b>awesome</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur13995491">Christopher Reid</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

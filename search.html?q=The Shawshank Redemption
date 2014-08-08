@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>The Shawshank Redemption</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=The&#32;Shawshank&#32;Redemption"><img class="img-polaroid" src="media/poster_thumbnail_111161.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"Andy forms an unlikely <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotShawshank Redemption is a very moving story about hope and the power of <a><b>friendship</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00611718&quot>Thomas McFadden (tmac4)</a><br><br>&quotWith his <a><b>friendship</b></a> with Andy he learns that without our hopes and dreams we have nothing.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur16117882&quot>alexkolokotronis</a><br><br>&quotThe portrayal of <a><b>friendship</b></a>, the devastation of loss and the maintaining of hope.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur29409681&quot>ellandanne</a><br><br>&quotPersonally i nearly cried at a <a><b>friendship</b></a> so pure yet so meaningful.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur09468953&quot>mynameisneo</a>" 
+                     data-original-title="More <b>friendship</b> Reviews">
+                     <b>friendship</b></a> with "Red" (Morgan Freeman), the man who knows how to get things."</span>&#8212;<a href="http://www.imdb.com/user/ur01285640">Si Cole</a><br/><br/>
+          
+          <span style="font-size:24px">"There`s also some <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe dialog is good, Tim Robbins and Morgan Freeman, both great actors, shows and <a><b>outstanding</b></a> play.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01926657&quot>Bernard Sandberg</a><br><br>&quotBut neither of those movies are as <a><b>outstanding</b></a> and powerful as The Shawshank Redemption.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22384056&quot>Humphrey Fish</a><br><br>&quotTim Robbins' and Morgan Freemans acting is simply <a><b>outstanding</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur29782921&quot>kuntmeister</a><br><br>&quotAn <a><b>outstanding</b></a> movie about perseverance, brains and irony.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00095497&quot>Neil Wiger</a>" 
+                     data-original-title="More <b>outstanding</b> Reviews">
+                     <b>outstanding</b></a> touches from director Frank Darabont ."</span>&#8212;<a href="http://www.imdb.com/user/ur01532177">Theo Robertson</a><br/><br/>
+          
+          <span style="font-size:24px">"A <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIt took me 4 years to see this, in my opinion, <a><b>masterpiece</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00176365&quot>Nermal-3</a><br><br>&quotWords are unable to talk about it and I have nothing to say about this <a><b>masterpiece</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur25610873&quot>Amin Davoodi (amin.davoodi1988@gmail.com)</a><br><br>&quotThis is a <a><b>masterpiece</b></a> in American story telling.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur29782921&quot>kuntmeister</a><br><br>&quotThis is a truly unforgettable <a><b>masterpiece</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur09468953&quot>mynameisneo</a>" 
+                     data-original-title="More <b>masterpiece</b> Reviews">
+                     <b>masterpiece</b></a>, 10/10."</span>&#8212;<a href="http://www.imdb.com/user/ur24573739">aaronmaclellan</a><br/><br/>
+          
+          <span style="font-size:24px">"He leaves us a poignant film with a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIt's a <a><b>powerful</b></a>, poignant, thought-provoking, challenging film like no other.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01285640&quot>Si Cole</a><br><br>&quotShawshank Redemption is even more <a><b>powerful</b></a> for its simplicity.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00043337&quot>Dave-79</a><br><br>&quotStartling performances from Tim Robbins, Morgan Freeman and the entire support cast help make this picture a <a><b>powerful</b></a> production.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur13887584&quot>gcd70</a><br><br>&quotIt doesn't sound like much on paper, but when filmed and watched, the results are <a><b>powerful</b></a> beyond compare.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22384056&quot>Humphrey Fish</a>" 
+                     data-original-title="More <b>powerful</b> Reviews">
+                     <b>powerful</b></a> message of hope, and redemption, something we all seek."</span>&#8212;<a href="http://www.imdb.com/user/ur00997166">Wesley S. Walker</a><br/><br/>
+          
+          <span style="font-size:24px">"Freeman and Robbins are majestic in their <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotTim Robbins gave one of the greatest <a><b>performances</b></a> ever.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur16117882&quot>alexkolokotronis</a><br><br>&quotThe <a><b>performances</b></a> are very good, but nothing really noteworthy.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24573739&quot>aaronmaclellan</a><br><br>&quotThe <a><b>performances</b></a> delivered by Robbins and Freeman are, to me, the pinnacle of both their careers.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00176365&quot>Nermal-3</a><br><br>&quotThe <a><b>performances</b></a> are arguably among the best of any movie that has ever existed in this world.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22384056&quot>Humphrey Fish</a>" 
+                     data-original-title="More <b>performances</b> Reviews">
+                     <b>performances</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur00257957">Tim Cox</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

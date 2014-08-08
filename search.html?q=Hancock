@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Hancock</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Hancock"><img class="img-polaroid" src="media/poster_thumbnail_448157.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"It was that <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe performance of Will Smith and the rest of the cats were beyond <a><b>bad</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23853088&quot>haterofcrap</a><br><br>&quotThat separates good actors from <a><b>bad</b></a> ones in a first place.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur09297589&quot>carvercape</a><br><br>&quotAfter she revealed her powers the film went from <a><b>bad</b></a> to worse.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur06250640&quot>natrap</a><br><br>&quotThe movie's plot wasn't too <a><b>bad</b></a>, but the storyline fell apart after the first 45 minutes.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19330727&quot>eavinajr</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur09921506">k_mckearn</a><br/><br/>
+          
+          <span style="font-size:24px">"This was one of the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quot...this is the <a><b>worst</b></a> film of his since &quotWild Wild West&quot.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur07028034&quot>retrorocker1980s</a><br><br>&quotThis movie was simply unwatchable...It is easily the <a><b>worst</b></a> superhero movie ever made.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23853088&quot>haterofcrap</a><br><br>&quotOverall this film is possibly the <a><b>worst</b></a> superhero film of the summer.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19262176&quot>cattydecatcat</a><br><br>&quotWild Wild West was OK, but still Will Smith's <a><b>worst</b></a> film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur18664520&quot>MrPink08</a>" 
+                     data-original-title="More <b>worst</b> Reviews">
+                     <b>worst</b></a> movies I've ever seen."</span>&#8212;<a href="http://www.imdb.com/user/ur09921506">k_mckearn</a><br/><br/>
+          
+          <span style="font-size:24px">"A <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotJason Bateman does a good job with his role and was the <a><b>perfect</b></a> person to play the part.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11661255&quot>Ken123456789</a><br><br>&quotI give this movie a <a><b>perfect</b></a> five, because half of it is awesome.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17066680&quot>None</a>" 
+                     data-original-title="More <b>perfect</b> Reviews">
+                     <b>perfect</b></a> spin on the paradigmatic superhero maxim, the plot allows for plenty of comedy, action and even romance."</span>&#8212;<a href="http://www.imdb.com/user/ur06134663">GoneWithTheTwins</a><br/><br/>
+          
+          <span style="font-size:24px">"It did had an excellent formula but it was <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIt's not that it's <a><b>poorly</b></a> financed or lacking a great cast.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00271743&quot>emerson-9</a><br><br>&quotAlso it was <a><b>poorly</b></a> filmed.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23853088&quot>haterofcrap</a><br><br>&quotI won't call it stupid, perhaps <a><b>poorly</b></a> thought out?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur13696286&quot>tomas_ernst</a><br><br>&quotHe is <a><b>poorly</b></a> acted and he has no motives.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur08611488&quot>doralover</a>" 
+                     data-original-title="More <b>poorly</b> Reviews">
+                     <b>poorly</b></a> executed and failed to deliver the substance it promised."</span>&#8212;<a href="http://www.imdb.com/user/ur05461454">nickohzu2100</a><br/><br/>
+          
+          <span style="font-size:24px">""Hancock" it's a complete <a id="hover" 
+                     rel="popover" 
+                     data-content="&quot&quotHancock&quot sucked and it was a complete <a><b>waste</b></a> of time.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17656660&quot>Golden_Joe</a><br><br>&quotPlease don't <a><b>waste</b></a> your time with this Hollywood tripe.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur25374705&quot>frankiewarren</a><br><br>&quot* Man, what a <a><b>waste</b></a> - it was a complete mess.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20351525&quot>YouSeenThat</a><br><br>&quotHancock isn't too much of a <a><b>waste</b></a> of two hours or so.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur16639600&quot>NelioCuomo</a>" 
+                     data-original-title="More <b>waste</b> Reviews">
+                     <b>waste</b></a> of time, and it is one of the worst movies ever made."</span>&#8212;<a href="http://www.imdb.com/user/ur23853088">haterofcrap</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

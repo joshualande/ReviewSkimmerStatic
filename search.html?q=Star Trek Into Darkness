@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Star Trek Into Darkness</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Star&#32;Trek&#32;Into&#32;Darkness"><img class="img-polaroid" src="media/poster_thumbnail_1408101.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"Truly spectacular, one of those rare <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIt's a solid action flick, and the acting by pretty much everyone is fine, and Cumberbatch is <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur40664607&quot>vandykeu</a><br><br>&quotI mean the action is good and the Special Effects are <a><b>amazing</b></a>, but the story was so familiar.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02780516&quot>ericdevet</a><br><br>&quotOK - the Spock/Khan scene was <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26193578&quot>sanjay-mayar</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a>, inventive and often unpredictable blockbusters."</span>&#8212;<a href="http://www.imdb.com/user/ur26726297">mina_legolas</a><br/><br/>
+          
+          <span style="font-size:24px">"Their transformations are sometimes <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotCumberbatch's <a><b>excellent</b></a> performance notwithstanding, why is he called &quotKhan Noonien Singh&quot if he's Engilish?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur40664607&quot>vandykeu</a><br><br>&quotPeter Weller makes an <a><b>excellent</b></a> admiral and really does bring presence to the screen.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur41283426&quot>hutchins_77</a><br><br>&quotEven the <a><b>excellent</b></a> actor Benedict Cumberbatch fails to animate this nostalgia-drenched turn of the Star Trek franchise.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20645131&quot>Tyger-Flynn</a><br><br>&quotThe special effects were great, the acting was <a><b>excellent</b></a> (especially from Benedict Cumberpatch!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur43615646&quot>Jordan Murphy</a>" 
+                     data-original-title="More <b>excellent</b> Reviews">
+                     <b>excellent</b></a> foreshadowing and sometimes elegant and subtle."</span>&#8212;<a href="http://www.imdb.com/user/ur00543054">Dan Franzen (dfranzen70)</a><br/><br/>
+          
+          <span style="font-size:24px">"I even capitalized it I <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotMaybe even <a><b>loved</b></a> it.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur12468084&quot>lostjedi</a><br><br>&quotStop reading now if you <a><b>loved</b></a> the film because that's the nicest thing I will say.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01497796&quot>mkc1218</a><br><br>&quotWell if you <a><b>loved</b></a> the 4th one (Crystal Skull) then you'll still be disappointed with this film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur43494250&quot>Felicia Likiardopoulos</a><br><br>&quotI <a><b>loved</b></a> the last film they came out with.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur43494250&quot>Felicia Likiardopoulos</a>" 
+                     data-original-title="More <b>loved</b> Reviews">
+                     <b>loved</b></a> it so much."</span>&#8212;<a href="http://www.imdb.com/user/ur11425798">kitzkats</a><br/><br/>
+          
+          <span style="font-size:24px">"The acting ranges from adequate to <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotAbrams's 2009 Star Trek was a <a><b>fantastic</b></a> and fresh storyline of how Kirk, Spock and Bones met.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur33384176&quot>authormonicaburns</a><br><br>&quotFirst the good news - the action sequences and the special effects are <a><b>fantastic</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04614453&quot>jm363561</a><br><br>&quotIt was <a><b>fantastic</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur43965054&quot>shenku</a>" 
+                     data-original-title="More <b>fantastic</b> Reviews">
+                     <b>fantastic</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur00543054">Dan Franzen (dfranzen70)</a><br/><br/>
+          
+          <span style="font-size:24px">"Other reviews have focused on the good, so I'm going to focus on the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe many <a><b>bad</b></a> things in this film outweighed the few good bits.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur41283426&quot>hutchins_77</a><br><br>&quot&quot Too <a><b>bad</b></a>, cinema fans.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24357812&quot>jdh2010</a><br><br>&quot...now lost to time to only be remembered by a new generation as <a><b>bad</b></a> fiction.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur14350567&quot>robertjastrow</a><br><br>&quotEvery time the Enterprise runs into a <a><b>bad</b></a> guy is Spock going to call Spock?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03006494&quot>Ponypoor</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> (as I see it)."</span>&#8212;<a href="http://www.imdb.com/user/ur40664607">vandykeu</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Avatar</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Avatar"><img class="img-polaroid" src="media/poster_thumbnail_499549.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"The graphics were <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe world that Cameron creates is stunning, mesmerizing, and pure: the special effects are <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11558751&quot>iamthegreenfairy</a><br><br>&quotEven <a><b>amazing</b></a> at some points.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22560674&quot>Anders Astrom</a><br><br>&quotThe film is <a><b>amazing</b></a> in 3D but the characters are stuck in 1 dimension.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11810055&quot>MonsigneurAbbot Tank</a><br><br>&quotI will say that the performances given by Stephen Lang and Sigourney Weaver were <a><b>amazing</b></a>!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02349840&quot>tigerkittyskf</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a>, sometimes."</span>&#8212;<a href="http://www.imdb.com/user/ur02372821">suckerdwsp316</a><br/><br/>
+          
+          <span style="font-size:24px">"Sigourney Weaver as the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotSure, it's very <a><b>beautiful</b></a> to look at, but, if you've seen the trailer, then you've seen the movie!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20287260&quot>tomskaal</a><br><br>&quotUnarguably, movie is visual art, it has to be <a><b>beautiful</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22838230&quot>Dim Lamp</a><br><br>&quotSo it is obviously correct that more technics should be used in movie to make it more visually <a><b>beautiful</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22838230&quot>Dim Lamp</a><br><br>&quotThe visual effects are really well done, impressive and <a><b>beautiful</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22560674&quot>Anders Astrom</a>" 
+                     data-original-title="More <b>beautiful</b> Reviews">
+                     <b>beautiful</b></a> Dr. Grace, is sufficient enough to have on screen again teamed with Cameron."</span>&#8212;<a href="http://www.imdb.com/user/ur02898980">Clayton Davis (Claytondavis@awardscircuit.com)</a><br/><br/>
+          
+          <span style="font-size:24px">"First of all, let me get it out of the way: yes, Avatar is visually <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotLet's make this film so visually <a><b>stunning</b></a> that everybody will be captivated.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22816613&quot>nehille</a><br><br>&quotThese, admittedly, are <a><b>stunning</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23210889&quot>thehairthieves</a><br><br>&quotThe rest of the film however... was less than <a><b>stunning</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24172176&quot>hellojaeson</a><br><br>&quotA film can look visually <a><b>stunning</b></a>, but in the end, what counts is the storyline.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19474449&quot>manigran</a>" 
+                     data-original-title="More <b>stunning</b> Reviews">
+                     <b>stunning</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur10656343">Florent</a><br/><br/>
+          
+          <span style="font-size:24px">"I usually don't like to use clichs, but this movie is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe CGI and special effects are <a><b>breathtaking</b></a>...I accept.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22797308&quot>Matt Gault</a><br><br>&quot&quot And he has succeeded in creating a new world of sparkling colors, fantastic creatures, and <a><b>breathtaking</b></a> landscapes.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24591910&quot>cinemaniac_x</a><br><br>&quotThe CGI is <a><b>breathtaking</b></a>, realistic and I can't even begin to imagine what it's like on 3D display.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur31195189&quot>Munro P</a><br><br>&quotObviously the effects were incredible, <a><b>breathtaking</b></a> to say the least.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur32691517&quot>Tommy Alvarez</a>" 
+                     data-original-title="More <b>breathtaking</b> Reviews">
+                     <b>breathtaking</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur03959353">glix glandon</a><br/><br/>
+          
+          <span style="font-size:24px">"This is pretty <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI cant believe how many people actually loved this, I even feel <a><b>bad</b></a> for genuinely hating this movie.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22763188&quot>person_mn</a><br><br>&quotBy the way, is it <a><b>bad</b></a> that I rooted for the humans?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04687925&quot>EgbertFinchet</a><br><br>&quotHe's a <a><b>bad</b></a> guy - nothing more.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04687925&quot>EgbertFinchet</a><br><br>&quotWhy do you think the Transformers movies, despite being so astoundingly <a><b>bad</b></a>, do so well?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23468029&quot>A_Concerned_Critic</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> considering this is the same guy who made The Abyss and Terminator."</span>&#8212;<a href="http://www.imdb.com/user/ur00856519">Twilight_Wraith</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

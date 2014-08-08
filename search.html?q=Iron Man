@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Iron Man</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Iron&#32;Man"><img class="img-polaroid" src="media/poster_thumbnail_371746.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"James Bridges and Terrance Howard are also <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotShaun Toub does <a><b>excellent</b></a> work in his smaller role as Yinsen.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22793067&quot>michael-colan</a><br><br>&quotThe visual effects are <a><b>excellent</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur12436370&quot>entertainmentmaniacs.blogspot .com</a><br><br>&quotRobert Downey Jr. does quite an <a><b>excellent</b></a> performance.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17397982&quot>Adrian232</a><br><br>&quotI thought Robert Downey Jr. did an <a><b>excellent</b></a> job as the lead, as well as Jon Favreaus' directing.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur18707708&quot>mtali42</a>" 
+                     data-original-title="More <b>excellent</b> Reviews">
+                     <b>excellent</b></a> in key supporting roles."</span>&#8212;<a href="http://www.imdb.com/user/ur00375636">Roland E. Zwick (magneteach@aol.com)</a><br/><br/>
+          
+          <span style="font-size:24px">"Now Iron Man is not a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotBut at the same time <a><b>perfect</b></a> in a certain sensibility of entertainment for its audience.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00453068&quot>MisterWhiplash</a><br><br>&quotDowney is a <a><b>perfect</b></a> Tony Stark - flippant, too-smart-for-his-own-good, utterly dedicated and - at times - hilarious.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03824745&quot>mstomaso</a><br><br>&quotThe casting (and performance) of Robert Downey Jr. as Tony Stark was about as <a><b>perfect</b></a> as you can get.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24876623&quot>mattrocks85</a><br><br>&quotHe is the <a><b>perfect</b></a> foe for Downey.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02403537&quot>callanvass</a>" 
+                     data-original-title="More <b>perfect</b> Reviews">
+                     <b>perfect</b></a> film, nor even a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotBut at the same time <a><b>perfect</b></a> in a certain sensibility of entertainment for its audience.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00453068&quot>MisterWhiplash</a><br><br>&quotDowney is a <a><b>perfect</b></a> Tony Stark - flippant, too-smart-for-his-own-good, utterly dedicated and - at times - hilarious.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03824745&quot>mstomaso</a><br><br>&quotThe casting (and performance) of Robert Downey Jr. as Tony Stark was about as <a><b>perfect</b></a> as you can get.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24876623&quot>mattrocks85</a><br><br>&quotHe is the <a><b>perfect</b></a> foe for Downey.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02403537&quot>callanvass</a>" 
+                     data-original-title="More <b>perfect</b> Reviews">
+                     <b>perfect</b></a> comic book adaptation."</span>&#8212;<a href="http://www.imdb.com/user/ur02020154">jaredmobarak</a><br/><br/>
+          
+          <span style="font-size:24px">"Rest assured, Iron Man is an absolutely <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe suit itself is <a><b>amazing</b></a> as well, through every mach stage right to the end.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02020154&quot>jaredmobarak</a><br><br>&quotJohn Favreau directed this <a><b>amazing</b></a> movie which is one of the best superhero movies ever.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22301934&quot>Girish Winchester</a><br><br>&quotTHE GOOD The most <a><b>amazing</b></a> thing about this movie is to have Rober Downy Jr playing the Iron Man.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur12436370&quot>entertainmentmaniacs.blogspot .com</a><br><br>&quotRobert Dowrney gives an <a><b>amazing</b></a> performance.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur08049104&quot>stiva</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a> movie."</span>&#8212;<a href="http://www.imdb.com/user/ur05254510">sacflyzone</a><br/><br/>
+          
+          <span style="font-size:24px">"Robert Downey Jr. owns all, no doubt; he's utterly <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe actors, especially Downey did a <a><b>fantastic</b></a> job and were believable in their roles.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur18294248&quot>collector256</a><br><br>&quotThat really doesn't detract from all of the other <a><b>fantastic</b></a> aspects of this movie.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24876623&quot>mattrocks85</a><br><br>&quotThe special effects are <a><b>fantastic</b></a> especially when Tony puts on the suit and becomes Iron Man.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19956219&quot>tburke85</a><br><br>&quotA <a><b>fantastic</b></a> action spectacle, with good actors, great story and brilliant visuals.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur10641014&quot>TomCruiseFan99</a>" 
+                     data-original-title="More <b>fantastic</b> Reviews">
+                     <b>fantastic</b></a> as Tony Stark."</span>&#8212;<a href="http://www.imdb.com/user/ur03109921">colonel_green</a><br/><br/>
+          
+          <span style="font-size:24px">"The background score is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotHe is instantly likable, funny, <a><b>awesome</b></a>, and real.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04389754&quot>treep74</a><br><br>&quotThis movie is <a><b>awesome</b></a>!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01789929&quot>dunkel_berg25</a><br><br>&quotThe special effects are incredible and the action is fun and <a><b>awesome</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur06016777&quot>plopmasterj</a><br><br>&quotRobert Downey Jr. as Iron Man was just <a><b>awesome</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur06627869&quot>bodhi_nino</a>" 
+                     data-original-title="More <b>awesome</b> Reviews">
+                     <b>awesome</b></a> and the cgi effects seemed insanely real."</span>&#8212;<a href="http://www.imdb.com/user/ur22301934">Girish Winchester</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>
