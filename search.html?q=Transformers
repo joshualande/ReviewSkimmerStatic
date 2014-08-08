@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Transformers</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Transformers"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_418279.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"The transformations are <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe robots look <a><b>amazing</b></a> and their transformations are seamless.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03947986&quot>brando647</a><br><br>&quotThat said Michael Bay has done a fantastic, brilliant, <a><b>amazing</b></a> job in showing mind blowing effects and sequences.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03267903&quot>michaelnorman777</a><br><br>&quotI thought the movie was <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur09332226&quot>doucet_derrick</a><br><br>&quotThe seamless transition from computer generated objects to real life was just <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur18832503&quot>Jaylyons2</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a> not to mention super-awesome."</span>&#8212;<a href="http://www.imdb.com/user/ur13995491">Christopher Reid</a><br/><br/>
+          
+          <span style="font-size:24px">"Well, personally, they were simply <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI almost fell on the floor after that it was <a><b>awesome</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01855202&quot>Mcnuttjb</a><br><br>&quotThe film has <a><b>awesome</b></a> photography; there must be thousands of gorgeous postcard-worthy shots throughout.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24364152&quot>Al_The_Strange</a><br><br>&quotPrime is <a><b>awesome</b></a> and looks great, updated for 2007 but still has the style of days gone by.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05685383&quot>Graham Reed</a><br><br>&quotThe original Transformers film is <a><b>awesome</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur21821220&quot>Sirus_the_Virus</a>" 
+                     data-original-title="More <b>awesome</b> Reviews">
+                     <b>awesome</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur02418998">tnzk</a><br/><br/>
+          
+          <span style="font-size:24px">"Every line smacked on <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe <a><b>bad</b></a>:.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur13995491&quot>Christopher Reid</a><br><br>&quotThe good outweighs the <a><b>bad</b></a> pretty comfortably.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur13995491&quot>Christopher Reid</a><br><br>&quotIf you took out the <a><b>bad</b></a> you might even have a classic on your hands.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur13995491&quot>Christopher Reid</a><br><br>&quotIt's a shame that the Decepticons were only there to be the &quot<a><b>bad</b></a> guys&quot, even Megatron.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02418998&quot>tnzk</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> puns, clichs, or just sounded stupid."</span>&#8212;<a href="http://www.imdb.com/user/ur00357354">GuyCC</a><br/><br/>
+          
+          <span style="font-size:24px">"Bay has proved himself to be one of the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotUnlike one of the <a><b>worst</b></a> films i've ever witnessed Transformers Two,Transformers is a very effective blockbuster that entertains immensely.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02403537&quot>callanvass</a><br><br>&quotArmageddon: One of the <a><b>worst</b></a> films ever made.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00556157&quot>Bryce David</a><br><br>&quotBut i think the <a><b>worst</b></a> actor was Rachael Taylor.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11208614&quot>anniecavgh</a><br><br>&quotNow, I'm not saying that &quotTransformers&quot is either the greatest or the <a><b>worst</b></a> movie ever made.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur25627714&quot>nickmesafilms (nickmesafilms@yahoo.com)</a>" 
+                     data-original-title="More <b>worst</b> Reviews">
+                     <b>worst</b></a>, overpaid film directors in the history of Hollywood."</span>&#8212;<a href="http://www.imdb.com/user/ur00671533">TheQuietStorm</a><br/><br/>
+          
+          <span style="font-size:24px">"Adding to the overall experience was the sound effects added to the transformations - they were <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThis movie is great, but not <a><b>perfect</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur34532332&quot>sharkattack2</a><br><br>&quotThe sound is <a><b>perfect</b></a> and the acting is mediocre.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23554143&quot>moviecyborg</a><br><br>&quotIt was <a><b>perfect</b></a> in every way and I might go and see it again!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur08613956&quot>descmondb</a><br><br>&quotIt was in no way <a><b>perfect</b></a>, but I am willing to accept the flaws.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur12139954&quot>Zombie-Kermit</a>" 
+                     data-original-title="More <b>perfect</b> Reviews">
+                     <b>perfect</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur04077178">rawdeal007</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

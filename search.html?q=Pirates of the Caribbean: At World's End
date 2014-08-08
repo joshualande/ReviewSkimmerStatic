@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Pirates of the Caribbean: At World&#39;s End</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Pirates&#32;of&#32;the&#32;Caribbean:&#32;At&#32;World's&#32;End"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_449088.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"These movies are in themselves <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotTherefore, I am going to give a list of reasons why this movie is utterly outstanding and <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11458774&quot>allenblake21</a><br><br>&quotI could keep on going on forever discussing the <a><b>amazing</b></a> qualities that this movie has.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11458774&quot>allenblake21</a><br><br>&quotDepp is <a><b>amazing</b></a> as usual, and you're almost wanting him in every scene!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur10655892&quot>Tomw343-1</a><br><br>&quotTruly <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur07270228&quot>ShowStoppar</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a> feats, but they are ART."</span>&#8212;<a href="http://www.imdb.com/user/ur11458774">allenblake21</a><br/><br/>
+          
+          <span style="font-size:24px">"Instead, it truly stands out as being one of the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotPirates 3 was the <a><b>worst</b></a> of the three films.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur21821220&quot>Sirus_the_Virus</a><br><br>&quotAs I walked into the cinema, I was fearing the <a><b>worst</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11541392&quot>TheUnseenMovieLover</a><br><br>&quotCaptain Jack Sparrow(Johnny Depp)is either the best pirate or <a><b>worst</b></a> on the Seven Seas.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00449021&quot>Michael O'Keefe</a><br><br>&quot) Orlando Bloom as 'Will' was the <a><b>worst</b></a> part for me.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur08263284&quot>Pixie-Belle</a>" 
+                     data-original-title="More <b>worst</b> Reviews">
+                     <b>worst</b></a> movies I've ever seen."</span>&#8212;<a href="http://www.imdb.com/user/ur05076153">Harbinger70</a><br/><br/>
+          
+          <span style="font-size:24px">"They really do an <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe effects were <a><b>excellent</b></a>, with some magically memorable scenes.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03019770&quot>ven2s</a><br><br>&quot) Anyway, my wishes aside, this was an <a><b>excellent</b></a> movie.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur14636937&quot>Marissa</a><br><br>&quotOther than that an <a><b>excellent</b></a> movie!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04088378&quot>thumpergirl03</a><br><br>&quotWhich brings me to the <a><b>excellent</b></a> portrayal given by Geoffrey Rush and Keith Richards.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17116884&quot>actorlink</a>" 
+                     data-original-title="More <b>excellent</b> Reviews">
+                     <b>excellent</b></a> job of avoiding any clichs."</span>&#8212;<a href="http://www.imdb.com/user/ur11566044">AfroThunder242</a><br/><br/>
+          
+          <span style="font-size:24px">"Usually, I can sit through <a id="hover" 
+                     rel="popover" 
+                     data-content="&quot2) Acting .. both good and <a><b>bad</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03411445&quot>tough_guy007</a><br><br>&quotWhile filmmakers should perhaps aspire to more, what they manage deliver isn't half <a><b>bad</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00637916&quot>rparham</a><br><br>&quotPirates 3 is a really good movie with some <a><b>bad</b></a> parts.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11342546&quot>M W</a><br><br>&quotNot a really <a><b>bad</b></a> movie with some good parts.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11342546&quot>M W</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> or boring films with a shrug and find its hidden merits."</span>&#8212;<a href="http://www.imdb.com/user/ur00547440">waitingforgodot</a><br/><br/>
+          
+          <span style="font-size:24px">"I <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI absolutely <a><b>loved</b></a> this film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00110220&quot>Smurf-9</a><br><br>&quotI <a><b>loved</b></a> it, it was fun to watch.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur09082277&quot>pts5400</a><br><br>&quotI <a><b>loved</b></a> the entire movie.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur15522427&quot>samwisegenius</a><br><br>&quotI <a><b>loved</b></a> both the first two.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur07270228&quot>ShowStoppar</a>" 
+                     data-original-title="More <b>loved</b> Reviews">
+                     <b>loved</b></a> the bittersweet ending."</span>&#8212;<a href="http://www.imdb.com/user/ur05041278">evileatinggrasshopper</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Toy Story 3</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Toy&#32;Story&#32;3"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_435761.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"Despite my cynical nature, there's no way I can grade this any less than <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe moves of the characters are simply <a><b>perfect</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22836725&quot>Prince AJB</a><br><br>&quotOverall, I give this movie a <a><b>perfect</b></a> score of 10 stars.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22836725&quot>Prince AJB</a><br><br>&quotPlastic <a><b>perfect</b></a>, if you ask me.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur16218774&quot>J_Jammer</a><br><br>&quotI applaud Pixar on maintaining their <a><b>perfect</b></a> record.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23438671&quot>tomoforster84</a>" 
+                     data-original-title="More <b>perfect</b> Reviews">
+                     <b>perfect</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur03387663">diac228 (diac1987@netscape.net)</a><br/><br/>
+          
+          <span style="font-size:24px">"As an <a id="hover" 
+                     rel="popover" 
+                     data-content="&quot&quotToy Story 3&quot was another <a><b>amazing</b></a> story in this (so far) trilogy.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04445210&quot>ccthemovieman-1</a><br><br>&quotPerfect display of story creation is taking a simple concept and squeezing an <a><b>amazing</b></a> adventure out of it.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur16218774&quot>J_Jammer</a><br><br>&quotI found it <a><b>amazing</b></a> that the toys were alive and all the story was superb either.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22145533&quot>savvas172007</a><br><br>&quot) to an <a><b>amazing</b></a> film series that just continues to surprise again and again with each new entry.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00892646&quot>dee.reid</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a> end to such a magnificent trilogy, "Toy Story 3" is a must watch movie."</span>&#8212;<a href="http://www.imdb.com/user/ur22836725">Prince AJB</a><br/><br/>
+          
+          <span style="font-size:24px">"It moved, and shows how valuable it is to be <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI <a><b>loved</b></a> how this film ends!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00522845&quot>jccwu</a><br><br>&quotSo for the last installment of, I must say, the well <a><b>loved</b></a> series, it is indeed the best.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22841247&quot>callmebond</a><br><br>&quotI <a><b>loved</b></a> the monkey!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17825945&quot>thesar-2</a><br><br>&quotFurthermore, I <a><b>loved</b></a> the other new characters, especially Mr. Pricklepants (Dalton.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17825945&quot>thesar-2</a>" 
+                     data-original-title="More <b>loved</b> Reviews">
+                     <b>loved</b></a> again, and I thought it was pitch perfect."</span>&#8212;<a href="http://www.imdb.com/user/ur00317399">DICK STEEL</a><br/><br/>
+          
+          <span style="font-size:24px">"We are treated to our <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotMy personal <a><b>favorite</b></a> being Ken (Michael Keaton), the spunky, cool dream hubby of Andy's little sister's Barbie Doll.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23438671&quot>tomoforster84</a><br><br>&quotBut it puts both of my <a><b>favorite</b></a> staples first: excellent story with (yes, even animated) deep characters.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17825945&quot>thesar-2</a><br><br>&quotToy story 3 is definitely one of my <a><b>favorite</b></a> films ever.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur31025169&quot>myungjahigh</a><br><br>&quotHence I would say that Toy story becomes my <a><b>favorite</b></a> quite recently.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur31025169&quot>myungjahigh</a>" 
+                     data-original-title="More <b>favorite</b> Reviews">
+                     <b>favorite</b></a> familiar characters and reminded again why we like them so."</span>&#8212;<a href="http://www.imdb.com/user/ur05911476">(prudie_mcprude@yahoo.com)</a><br/><br/>
+          
+          <span style="font-size:24px">"It is a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThat's how absolutely <a><b>brilliant</b></a> this movie is.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23135462&quot>jordancelticsfan</a><br><br>&quotThe opening was <a><b>brilliant</b></a>!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23437537&quot>Emti</a><br><br>&quotToy Story 3 was magical, wonderful, amazing, <a><b>brilliant</b></a>, and so fabulously done.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11013423&quot>crazyshells219</a><br><br>&quotTom Hanks as Woody and Tim Allen as beloved Buzz are just absolutely <a><b>brilliant</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur28221379&quot>illbebackreviews</a>" 
+                     data-original-title="More <b>brilliant</b> Reviews">
+                     <b>brilliant</b></a> tale; a perfect movie for children and adults alike."</span>&#8212;<a href="http://www.imdb.com/user/ur20944601">russb216</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

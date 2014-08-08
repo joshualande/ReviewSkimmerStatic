@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Shrek the Third</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Shrek&#32;the&#32;Third"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_413267.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"However, Shek the third isn't a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotWhen the 'villians/ <a><b>bad</b></a> guys' were attacking Far Far Away the movie felt dark.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04125180&quot>lone_jafa</a><br><br>&quotShrek the Third isn't <a><b>bad</b></a>, I don't want to say it's really even tedious.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05232724&quot>Polaris_DiB</a><br><br>&quotI've seen <a><b>bad</b></a> films (like Battlefield Earth, or even Necro Files 2) but this is ridiculous.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19305288&quot>freejazzclub</a><br><br>&quotThe voice actors weren't <a><b>bad</b></a>, it was more the script that killed it.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur14823255&quot>Scarletquillraven</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> movie in itself, only when compared to the others."</span>&#8212;<a href="http://www.imdb.com/user/ur15411664">Lori B.</a><br/><br/>
+          
+          <span style="font-size:24px">"A long, <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotDonkey and Puss n' Boots have gotten <a><b>boring</b></a>, and don't even have many good one-liners.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur15416932&quot>mrband99</a><br><br>&quotIt wasn't funny, the storyline was <a><b>boring</b></a> and it lacked the humour the original Shrek movies excelled at.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05121100&quot>funkychicken134</a><br><br>&quotThis movie is <a><b>boring</b></a> and really rushed.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05121100&quot>funkychicken134</a><br><br>&quotThey're <a><b>boring</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur15354244&quot>(psnoons@prontomail.com)</a>" 
+                     data-original-title="More <b>boring</b> Reviews">
+                     <b>boring</b></a> plot device."</span>&#8212;<a href="http://www.imdb.com/user/ur02080638">Emily Taylor</a><br/><br/>
+          
+          <span style="font-size:24px">"3)The <a id="hover" 
+                     rel="popover" 
+                     data-content="&quot-s typical exploitation sequel, LACKS THE SPARK, many <a><b>jokes</b></a> are stale.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05189647&quot>kooleshwar (dudeshwar@yahoo.com)</a><br><br>&quotThen the rest seemed to be fart and vomit <a><b>jokes</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03205762&quot>scarletminded</a><br><br>&quotOr <a><b>jokes</b></a> that fell flat.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03205762&quot>scarletminded</a><br><br>&quotThe <a><b>jokes</b></a> they used were dull, and the story was highly predictable.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05121100&quot>funkychicken134</a>" 
+                     data-original-title="More <b>jokes</b> Reviews">
+                     <b>jokes</b></a> are getting stale (how many ugly ogre, farting and gingerbread <a id="hover" 
+                     rel="popover" 
+                     data-content="&quot-s typical exploitation sequel, LACKS THE SPARK, many <a><b>jokes</b></a> are stale.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05189647&quot>kooleshwar (dudeshwar@yahoo.com)</a><br><br>&quotThen the rest seemed to be fart and vomit <a><b>jokes</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03205762&quot>scarletminded</a><br><br>&quotOr <a><b>jokes</b></a> that fell flat.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03205762&quot>scarletminded</a><br><br>&quotThe <a><b>jokes</b></a> they used were dull, and the story was highly predictable.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05121100&quot>funkychicken134</a>" 
+                     data-original-title="More <b>jokes</b> Reviews">
+                     <b>jokes</b></a> can you have?)."</span>&#8212;<a href="http://www.imdb.com/user/ur05189647">kooleshwar (dudeshwar@yahoo.com)</a><br/><br/>
+          
+          <span style="font-size:24px">"The biggest <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotHow then can it all add up to such a huge <a><b>disappointment</b></a>?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01333634&quot>C B Murphy</a><br><br>&quotIt's quite a <a><b>disappointment</b></a> to have this title made the way it was.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05442112&quot>killer3000ad</a><br><br>&quotThis was again another <a><b>disappointment</b></a> and hopefully will wrap out up soon.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur37667024&quot>wfjohnston14</a><br><br>&quotThis 2007 third installment was a HUGE <a><b>disappointment</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26034833&quot>Cartoon King</a>" 
+                     data-original-title="More <b>disappointment</b> Reviews">
+                     <b>disappointment</b></a> was the music."</span>&#8212;<a href="http://www.imdb.com/user/ur04125180">lone_jafa</a><br/><br/>
+          
+          <span style="font-size:24px">"I have to say it's the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe <a><b>worst</b></a> thing is that this film is serious as hell.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19305288&quot>freejazzclub</a><br><br>&quotNo clues of irony or sarcasm against the stupid fairytale (or <a><b>worst</b></a> the stupid pop-cultural) clichs.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19305288&quot>freejazzclub</a><br><br>&quotNot unexpectedly, this is the <a><b>worst</b></a> of the three, but the reasons for its limited appeal are surprising.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00185160&quot>P Carr (pavel@fan.com)</a><br><br>&quot) It's not the <a><b>worst</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00680065&quot>kevin_crighton (kevincrighton@btinternet.com)</a>" 
+                     data-original-title="More <b>worst</b> Reviews">
+                     <b>worst</b></a> film released this year."</span>&#8212;<a href="http://www.imdb.com/user/ur16124350">Steve Ashworth</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

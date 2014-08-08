@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>The Lord of the Rings: The Return of the King</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=The&#32;Lord&#32;of&#32;the&#32;Rings:&#32;The&#32;Return&#32;of&#32;the&#32;King"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_167260.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"The Tolkien humor is intact perfectly and the gallantry and just plain coolness of these heroes is plain <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotAs a film though, this is <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02919262&quot>eiratan</a><br><br>&quotThese were some <a><b>amazing</b></a> movies and this one in particular is the best, in my opinion.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01142410&quot>Derek237</a><br><br>&quotThe special effects are nothing short of <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19814891&quot>fearfulofspiders</a><br><br>&quotThe battles are <a><b>amazing</b></a>, never making the film drag, and always heightening the tension.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19814891&quot>fearfulofspiders</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur02919262">eiratan</a><br/><br/>
+          
+          <span style="font-size:24px">"The meld of live-action and CGI elements is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotHere we find a <a><b>perfect</b></a> mean.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00185160&quot>P Carr (pavel@fan.com)</a><br><br>&quotWhile the finish may seem odd, I consider it <a><b>perfect</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00185160&quot>P Carr (pavel@fan.com)</a><br><br>&quotIs this film <a><b>perfect</b></a>?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00185160&quot>P Carr (pavel@fan.com)</a><br><br>&quotThe acting is <a><b>perfect</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17646017&quot>g-bodyl</a>" 
+                     data-original-title="More <b>perfect</b> Reviews">
+                     <b>perfect</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur02093818">Grann-Bach (Grann-Bach@jubii.dk)</a><br/><br/>
+          
+          <span style="font-size:24px">"The special effects, first of all, are <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotAnyways, this movie has an <a><b>excellent</b></a> beginning and a wonderful ending.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur14120112&quot>HiMyNameIsAlisha</a><br><br>&quotDespite some of those flaws it still is an <a><b>excellent</b></a> movie with some unforgettable battle's sequence's.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01416505&quot>Boba_Fett1138</a><br><br>&quotThis is an <a><b>excellent</b></a> end to an incredible trilogy.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02093818&quot>Grann-Bach (Grann-Bach@jubii.dk)</a><br><br>&quotOf course the books are better-they always are-but the movies are an <a><b>excellent</b></a> adaptation of Tolkien's wonderful tale.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur09064547&quot>karenlynn1</a>" 
+                     data-original-title="More <b>excellent</b> Reviews">
+                     <b>excellent</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur02362433">eviltimmy</a><br/><br/>
+          
+          <span style="font-size:24px">"After the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotReturn of the King is the <a><b>greatest</b></a> of the Tolkien trilogy by New Zealand director Peter Jackson.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00064493&quot>Chris_Docker</a><br><br>&quotLord of the Rings-The Return of the King is surely the <a><b>greatest</b></a> movie ever made.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur06074683&quot>masterf</a><br><br>&quotThis is one of the <a><b>greatest</b></a> films I have ever seen.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur06097805&quot>Skip4591</a><br><br>&quotI'd go far to say that it is the <a><b>greatest</b></a> film of all time.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur32220837&quot>Sam Grant</a>" 
+                     data-original-title="More <b>greatest</b> Reviews">
+                     <b>greatest</b></a> moment of the series resolves itself, the story provided a breather."</span>&#8212;<a href="http://www.imdb.com/user/ur00357354">GuyCC</a><br/><br/>
+          
+          <span style="font-size:24px">"Everything about the film is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotTruly a <a><b>wonderful</b></a> ending for one of the greatest movie trilogies in history.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01416505&quot>Boba_Fett1138</a><br><br>&quotEverything about The Lord of the Rings series is absolutely <a><b>wonderful</b></a> and this movie is incredibly incredible.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur18374320&quot>Dragoneyed363</a><br><br>&quotIn the second, we see Gandalfs fight with the Balrog to a <a><b>wonderful</b></a> soundtrack.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00426556&quot>Nick Morgan</a><br><br>&quotThe scenery of New Zealand-which is where this work of art was filmed-is just <a><b>wonderful</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur06097805&quot>Skip4591</a>" 
+                     data-original-title="More <b>wonderful</b> Reviews">
+                     <b>wonderful</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur02919262">eiratan</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

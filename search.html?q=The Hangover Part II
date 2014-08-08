@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>The Hangover Part II</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=The&#32;Hangover&#32;Part&#32;II"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_1411697.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"So please don't be like me and millions of other people, don't <a id="hover" 
+                     rel="popover" 
+                     data-content="" 
+                     data-original-title="More <b>waste</b> Reviews">
+                     <b>waste</b></a> your money."</span>&#8212;<a href="http://www.imdb.com/user/ur25986869">southtroyballa</a><br/><br/>
+          
+          <span style="font-size:24px">"If you want some creativity and originality for your <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotAnd it made ridiculous <a><b>money</b></a> at the box office.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03947986&quot>brando647</a><br><br>&quotI'm not really getting Todd Phillips's intention besides getting more <a><b>money</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22490656&quot>Julian Left (julian.left@gmail.com)</a><br><br>&quotI can also dig a whole different ways to make <a><b>money</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22490656&quot>Julian Left (julian.left@gmail.com)</a><br><br>&quotwe've got a franchise on our hands, let's make some more <a><b>money</b></a>!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24277997&quot>philip-zuzarte</a>" 
+                     data-original-title="More <b>money</b> Reviews">
+                     <b>money</b></a>, don't bother."</span>&#8212;<a href="http://www.imdb.com/user/ur09150199">pauljraab</a><br/><br/>
+          
+          <span style="font-size:24px">"It was in fact so <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI just don't think it deserves all the <a><b>bad</b></a> reviews and disappointment.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur07854942&quot>tpaladino</a><br><br>&quotIt all goes <a><b>bad</b></a> to worse when they realize the brother of Stu's wife-to-be is missing.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17646017&quot>g-bodyl</a><br><br>&quotnot <a><b>bad</b></a> though by any stretch and I hope the third will be much more original.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur29115330&quot>thistleplant</a><br><br>&quotIt is not to say that Part II is <a><b>bad</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24578060&quot>Anh Vo</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> that I felt embarrassed for them."</span>&#8212;<a href="http://www.imdb.com/user/ur21811431">endura-1</a><br/><br/>
+          
+          <span style="font-size:24px">"The <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotOtherwise, even the mildly enjoyable dirty <a><b>jokes</b></a> are going to turn into worn-out clichs.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26370707&quot>Aakash Vasudevan</a><br><br>&quotBut it's not like all the <a><b>jokes</b></a> that were funny in the first Hangover get repeated here.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05876717&quot>kosmasp</a><br><br>&quotThe <a><b>jokes</b></a> that made you laugh in the first one makes you feel sorry for them in this one.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur14073407&quot>sad-eyed-angel</a><br><br>&quotHis <a><b>jokes</b></a> are straight, funny and he is involved in all the comedic situations.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22490656&quot>Julian Left (julian.left@gmail.com)</a>" 
+                     data-original-title="More <b>jokes</b> Reviews">
+                     <b>jokes</b></a> are the same, just dirtier and more low-brow to get shock reaction."</span>&#8212;<a href="http://www.imdb.com/user/ur09150199">pauljraab</a><br/><br/>
+          
+          <span style="font-size:24px">"I, like so many others, <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI was disappointed though because I <a><b>loved</b></a> the mystery aspect of the first film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur10398346&quot>Terrell Howell (KnightsofNi11)</a><br><br>&quotI just <a><b>loved</b></a> Alan's weirdness and that dinner scene where he is reading those notecard facts.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17646017&quot>g-bodyl</a><br><br>&quotHowever if you <a><b>loved</b></a> the original you will love the sequel!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11696291&quot>xJags</a><br><br>&quotI <a><b>loved</b></a> the 1st one a bit too much to let go off its shadow.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur08503729&quot>nama chakravorty</a>" 
+                     data-original-title="More <b>loved</b> Reviews">
+                     <b>loved</b></a> The Hangover."</span>&#8212;<a href="http://www.imdb.com/user/ur10398346">Terrell Howell (KnightsofNi11)</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

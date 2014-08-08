@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>The Hottie &amp; the Nottie</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=The&#32;Hottie&#32;&amp;&#32;the&#32;Nottie"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_804492.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"I would not recommend seeing this movie even it it is for comic value of how <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotGary busey <a><b>bad</b></a> (The hottie and the nottie).&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur13668510&quot>Peeni_Sweenis</a><br><br>&quotThe acting is all around <a><b>bad</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04195782&quot>Tommy Nelson</a><br><br>&quotThe movie's sense of the humor is so <a><b>bad</b></a>, it actually almost made me feel sorry for the writer.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04195782&quot>Tommy Nelson</a><br><br>&quotThe camera direction wasn't <a><b>bad</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04195782&quot>Tommy Nelson</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> it is."</span>&#8212;<a href="http://www.imdb.com/user/ur13668510">Peeni_Sweenis</a><br/><br/>
+          
+          <span style="font-size:24px">"Paris Hilton is not the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotSure, it has a lot of flaws...but this is far from being one of the <a><b>worst</b></a> movies ever.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur12333312&quot>slasherguyy</a><br><br>&quotOne of the <a><b>worst</b></a> films I have ever seen.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur18808950&quot>Rockin_Joe_87</a><br><br>&quotParis Hilton is her <a><b>worst</b></a> enemy.Concerinig this film,do yourself a favour,avoid this one.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03117112&quot>(RLARKT199@ROGERS.COM)</a><br><br>&quotOne of the goals of philistinism is to render meaningless the words &quotbest&quot and &quot<a><b>worst</b></a>&quot.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur15695008&quot>Azu-Kazoo-Atoms</a>" 
+                     data-original-title="More <b>worst</b> Reviews">
+                     <b>worst</b></a> person ever imaginable."</span>&#8212;<a href="http://www.imdb.com/user/ur12333312">slasherguyy</a><br/><br/>
+          
+          <span style="font-size:24px">"A <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIt's all about looks in this superficial <a><b>waste</b></a> of time.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04195782&quot>Tommy Nelson</a><br><br>&quotWhile I did <a><b>waste</b></a> 90 minutes watching this detritus movie, I at least did not pay for it.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur07094027&quot>jeanette-roman</a><br><br>&quotThe money used to make this <a><b>waste</b></a> of film could have been used to feed starving Ethiopian children!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur08827886&quot>crow30002003</a><br><br>&quotThis movie is only doesn't make me want to vomit, it is only a <a><b>waste</b></a> of time.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22576375&quot>jo-erg</a>" 
+                     data-original-title="More <b>waste</b> Reviews">
+                     <b>waste</b></a> of time, money and effort."</span>&#8212;<a href="http://www.imdb.com/user/ur09930260">jodylax</a><br/><br/>
+          
+          <span style="font-size:24px">"This movie has no plot, <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIt's just bad, no wait, it's just <a><b>terrible</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04195782&quot>Tommy Nelson</a><br><br>&quotParis Hilton plays a <a><b>terrible</b></a> character, but at least she's a kind hearted one.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04195782&quot>Tommy Nelson</a><br><br>&quotThe plot(if you can call it that) is a joke and the acting is <a><b>terrible</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19789687&quot>Newsense</a><br><br>&quotIt was very poor acting and the script was just <a><b>terrible</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur28048462&quot>Trent Browning</a>" 
+                     data-original-title="More <b>terrible</b> Reviews">
+                     <b>terrible</b></a> acting, among other things that make this movie <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIt's just bad, no wait, it's just <a><b>terrible</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04195782&quot>Tommy Nelson</a><br><br>&quotParis Hilton plays a <a><b>terrible</b></a> character, but at least she's a kind hearted one.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04195782&quot>Tommy Nelson</a><br><br>&quotThe plot(if you can call it that) is a joke and the acting is <a><b>terrible</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19789687&quot>Newsense</a><br><br>&quotIt was very poor acting and the script was just <a><b>terrible</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur28048462&quot>Trent Browning</a>" 
+                     data-original-title="More <b>terrible</b> Reviews">
+                     <b>terrible</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur08248521">jts0405</a><br/><br/>
+          
+          <span style="font-size:24px">"The script is bad, <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIt's not completely <a><b>unfunny</b></a> though, otherwise I would have hated the film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur12333312&quot>slasherguyy</a><br><br>&quotIt's predictable, lame, the worst dialogue I have seen in any movie and <a><b>unfunny</b></a> in every way possible.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur18808950&quot>Rockin_Joe_87</a><br><br>&quotNothing whatsoever is good about it, it is lazy, mean-spirited and <a><b>unfunny</b></a> and many other things.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20552756&quot>TheLittleSongbird</a>" 
+                     data-original-title="More <b>unfunny</b> Reviews">
+                     <b>unfunny</b></a>, and along with that shows no development in character whatsoever."</span>&#8212;<a href="http://www.imdb.com/user/ur04195782">Tommy Nelson</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

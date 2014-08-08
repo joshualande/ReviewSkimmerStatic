@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Indiana Jones and the Kingdom of the Crystal Skull</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Indiana&#32;Jones&#32;and&#32;the&#32;Kingdom&#32;of&#32;the&#32;Crystal&#32;Skull"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_367882.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"Marion was an after-thought and Irina was a stereotypical <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotAt times he did but at times he seemed like a <a><b>bad</b></a> caricature of himself.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur07944442&quot>twistedcol-1</a><br><br>&quotI knew it was going to be <a><b>bad</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19431970&quot>Seamus  (seamus@seamusryan.net)</a><br><br>&quotHe actually did a decent job, as far as acting in <a><b>bad</b></a> movies goes.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19431970&quot>Seamus  (seamus@seamusryan.net)</a><br><br>&quotThe movie starts out terribly, and leaves a <a><b>bad</b></a> taste in your mouth right off the bat.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19431970&quot>Seamus  (seamus@seamusryan.net)</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> guy."</span>&#8212;<a href="http://www.imdb.com/user/ur07844518">Cara-Mae</a><br/><br/>
+          
+          <span style="font-size:24px">"Worst character and <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThis is the <a><b>worst</b></a> film i have seen so far this year!!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19436827&quot>fer-v</a><br><br>&quotThe <a><b>worst</b></a> has to be the flying fridge, where Indy ducks into to escape a nuclear explosion.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19336487&quot>rab67-2</a><br><br>&quotDid anyone else also notice what was arguably the <a><b>worst</b></a> use of a Wilhelm Scream in cinematic history?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00855231&quot>johnnyboyz (j_l_h_m@yahoo.co.uk)</a><br><br>&quotEssentially it was the <a><b>worst</b></a> movie ever, if you judge with intentions, ambition, budget, and personnel taken into account.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03270879&quot>malkovichmalkovich7</a>" 
+                     data-original-title="More <b>worst</b> Reviews">
+                     <b>worst</b></a> acting goes to Miss Blanchett."</span>&#8212;<a href="http://www.imdb.com/user/ur07944442">twistedcol-1</a><br/><br/>
+          
+          <span style="font-size:24px">"It's soooo <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe script, in places, is <a><b>awful</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19380106&quot>mtv500</a><br><br>&quotJohn Hurt is made to say some <a><b>awful</b></a> guff, (see above) and Ray Winstone is also disappointing.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19380106&quot>mtv500</a><br><br>&quotI would not even rent it again as it was <a><b>awful</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19409553&quot>ken-lindabork</a><br><br>&quotAnd who can forget, the god <a><b>awful</b></a> wedding.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23602686&quot>Scott Jacobs</a>" 
+                     data-original-title="More <b>awful</b> Reviews">
+                     <b>awful</b></a> I will never watch it again."</span>&#8212;<a href="http://www.imdb.com/user/ur18930030">Rob Macklin</a><br/><br/>
+          
+          <span style="font-size:24px">"But the movie just got <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIt really is that <a><b>ridiculous</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur14980550&quot>bdphill</a><br><br>&quotIt was <a><b>ridiculous</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur15766810&quot>daveygandthekeyboard</a><br><br>&quotFord's character having a side career as a spy was <a><b>ridiculous</b></a>, as was the terrible character played be Blanchett.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur08448917&quot>cameronwarn</a><br><br>&quotI could even overlook Indy surviving a nuclear blast in a fridge - <a><b>ridiculous</b></a> as it was.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19405047&quot>kinderbrause</a>" 
+                     data-original-title="More <b>ridiculous</b> Reviews">
+                     <b>ridiculous</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur14980550">bdphill</a><br/><br/>
+          
+          <span style="font-size:24px">"The other stuff flows from that, making the film better or <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotAnd it only got <a><b>worse</b></a> from there.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur14980550&quot>bdphill</a><br><br>&quotThe only thing <a><b>worse</b></a> than the plot for this movie was Cate Blanchett's horribly fake Russian accent.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03358500&quot>ewcarden</a><br><br>&quotTo make matters <a><b>worse</b></a>, far too much CGI was used.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03358500&quot>ewcarden</a><br><br>&quotAnd he gets <a><b>worse</b></a> from there.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur18930030&quot>Rob Macklin</a>" 
+                     data-original-title="More <b>worse</b> Reviews">
+                     <b>worse</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur19387434">svinnacombe</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

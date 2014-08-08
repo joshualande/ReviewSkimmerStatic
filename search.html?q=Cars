@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Cars</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Cars"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_317219.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"That's because it's equally beautiful, color-wise, and more entertaining because of the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe sound also is <a><b>excellent</b></a>, especially in the opening and closing race scenes.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04445210&quot>ccthemovieman-1</a><br><br>&quotThis movie is <a><b>excellent</b></a> clear down to the last tailpipe.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur09723980&quot>hpottr</a><br><br>&quotCar's is an intriguing story with <a><b>excellent</b></a> animation and humor for both adults and kids alike.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur10647806&quot>timecarter</a><br><br>&quotOwen Wilson (another one I hate) was <a><b>excellent</b></a> as McQueen as well.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur07002032&quot>KarisLOVER</a>" 
+                     data-original-title="More <b>excellent</b> Reviews">
+                     <b>excellent</b></a> humor."</span>&#8212;<a href="http://www.imdb.com/user/ur04445210">ccthemovieman-1</a><br/><br/>
+          
+          <span style="font-size:24px">"The animation is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe animation is <a><b>superb</b></a>, the backgrounds are beautiful and the character movements are crisp.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20552756&quot>TheLittleSongbird</a><br><br>&quotAll of the voice acting in the movie was <a><b>superb</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00884984&quot>PyroPlasmX</a><br><br>&quotAnd it goes without saying that the animation is <a><b>superb</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01546704&quot>Andrew Roma</a><br><br>&quotThe voice casting was <a><b>superb</b></a>, and I was particularly pleased with Paul Newman's and Bonnie Hunt's efforts.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02121195&quot>salorkent</a>" 
+                     data-original-title="More <b>superb</b> Reviews">
+                     <b>superb</b></a>, definitely the best they've done."</span>&#8212;<a href="http://www.imdb.com/user/ur10810328">solsetimo</a><br/><br/>
+          
+          <span style="font-size:24px">"Cars has some <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIt works and believe when I tell you that the graphics on this movie are just <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01006669&quot>gerardo_guzman</a><br><br>&quotThis film was <a><b>amazing</b></a>!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05778930&quot>just4neen</a><br><br>&quotThe amount of details such as reflections in each scene, etc was <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01606357&quot>normano</a><br><br>&quotThe rest of the movie was <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01606357&quot>normano</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a> effects as far as the lighting and reflections."</span>&#8212;<a href="http://www.imdb.com/user/ur07147870">matt2k25</a><br/><br/>
+          
+          <span style="font-size:24px">"I absolutely <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotMy wife and I <a><b>loved</b></a> this movie and plan to see it again when it is in public release.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur10859404&quot>robchur</a><br><br>&quotI <a><b>loved</b></a> how the cars shiny bodywork glistened off the big screen.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur13605294&quot>MetalDuck</a><br><br>&quotI <a><b>loved</b></a> how Ramone had a new paint job every time he came on scene.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04799875&quot>michael702</a><br><br>&quotI <a><b>loved</b></a> Luigi's Ferrari mania and when Michael Schumacher came in at the end...perfect humor.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04799875&quot>michael702</a>" 
+                     data-original-title="More <b>loved</b> Reviews">
+                     <b>loved</b></a> it."</span>&#8212;<a href="http://www.imdb.com/user/ur10751216">Kelly  (theblabbershow@yahoo.com)</a><br/><br/>
+          
+          <span style="font-size:24px">"Everything, the music, story, acting, direction is all <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotPaul Newman, what more could be said about this <a><b>wonderful</b></a> man?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04549464&quot>meeser24</a><br><br>&quotCars is absolutely <a><b>wonderful</b></a> and perfectly fast-paced, the whole ride through.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02149293&quot>jberlin11797</a><br><br>&quotLet me just start by saying that CARS to me was <a><b>wonderful</b></a> but I did enjoy FINDING NEMO better.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04979831&quot>Knewsense78</a><br><br>&quot) and thought that it was absolutely <a><b>wonderful</b></a>!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur06646879&quot>mattdawguwg</a>" 
+                     data-original-title="More <b>wonderful</b> Reviews">
+                     <b>wonderful</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur07002032">KarisLOVER</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

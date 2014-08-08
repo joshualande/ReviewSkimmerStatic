@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Schindler&#39;s List</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Schindler's&#32;List"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_108052.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"It's still one of the most <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI firstly watched it when I was 14 and it was the most <a><b>powerful</b></a> movie I have ever seen.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26219141&quot>ofratko</a><br><br>&quotWhy is this so <a><b>powerful</b></a>?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20527640&quot>TBoldOne</a><br><br>&quotThe images were <a><b>powerful</b></a>, and the acting of all major characters was great.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur33574715&quot>chad hatten</a><br><br>&quotSchindler's List is a very faithful and <a><b>powerful</b></a> film send up of the novel of the same name.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20687938&quot>retasulover</a>" 
+                     data-original-title="More <b>powerful</b> Reviews">
+                     <b>powerful</b></a> stories ever put on film, mainly because it's based on fact."</span>&#8212;<a href="http://www.imdb.com/user/ur04445210">ccthemovieman-1</a><br/><br/>
+          
+          <span style="font-size:24px">"Steven Spielberg makes one of (if not the one) his <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotSo if you want to see one of the <a><b>greatest</b></a> historical films ever made, then go see Schindler's List.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur09295399&quot>Aida Nejad</a><br><br>&quotSurely and undoubtedly one of the <a><b>greatest</b></a> films of all time.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20916867&quot>gigan-92</a><br><br>&quotSteven Spielberg's <a><b>greatest</b></a>, no other film has depicted the suffering of the Holocaust so hauntingly vivid and realistic.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20916867&quot>gigan-92</a><br><br>&quotThis is without a doubt Liam Neeson's <a><b>greatest</b></a> role that he has ever played.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20916867&quot>gigan-92</a>" 
+                     data-original-title="More <b>greatest</b> Reviews">
+                     <b>greatest</b></a> movies of all time."</span>&#8212;<a href="http://www.imdb.com/user/ur09295399">Aida Nejad</a><br/><br/>
+          
+          <span style="font-size:24px">"The acting is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe acting by Liam Neeson, Ben Kingsley and Ralph Fiennes is just <a><b>brilliant</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur28221379&quot>illbebackreviews</a><br><br>&quotJohn Williams is <a><b>brilliant</b></a>!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22049598&quot>ImportantFilmReviews</a><br><br>&quotSpielberg outdid himself in this <a><b>brilliant</b></a> work.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur08046532&quot>MartianOctocretr5</a><br><br>&quotThis movie is <a><b>brilliant</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19519327&quot>jamminjillo8</a>" 
+                     data-original-title="More <b>brilliant</b> Reviews">
+                     <b>brilliant</b></a>, every actor does an amazing job."</span>&#8212;<a href="http://www.imdb.com/user/ur23582121">Grey Gardens</a><br/><br/>
+          
+          <span style="font-size:24px">"This film is about redemption and was <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotAnd Ben Kingsley was just marvelous as Stern.And John Williams scored the film <a><b>beautifully</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20916867&quot>gigan-92</a><br><br>&quotLiam Neeson played Schindler so <a><b>beautifully</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00915482&quot>hall895</a><br><br>&quotIt truly depicts the terrible nature of the Holocaust and one of mankind's darkest hours very <a><b>beautifully</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur40269307&quot>jellybean1129</a><br><br>&quotThe story itself is simple but <a><b>beautifully</b></a> realised and the acting is incredible.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24012560&quot>yeltzmanmatt</a>" 
+                     data-original-title="More <b>beautifully</b> Reviews">
+                     <b>beautifully</b></a> photographed in black and white by Janusz Kaminski (cinematographer)."</span>&#8212;<a href="http://www.imdb.com/user/ur00671533">TheQuietStorm</a><br/><br/>
+          
+          <span style="font-size:24px">"The acting presented is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotBen Kingsley is <a><b>amazing</b></a> portraying Itzhak Stern.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22049598&quot>ImportantFilmReviews</a><br><br>&quot&quot An <a><b>amazing</b></a> story.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20527640&quot>TBoldOne</a><br><br>&quotJust an all around <a><b>amazing</b></a> film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23483288&quot>Steve Pulaski</a><br><br>&quotWhat a shame - such <a><b>amazing</b></a> a performance and such shallow a look at human psychology.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23010515&quot>roryboo</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur22049598">ImportantFilmReviews</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Transformers: Dark of the Moon</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Transformers:&#32;Dark&#32;of&#32;the&#32;Moon"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_1399103.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"The <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotTransformers: Dark of the Moon is almost too <a><b>bad</b></a> to describe.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20468461&quot>tbmforclasstsar</a><br><br>&quotThe first two transformer movies were not <a><b>bad</b></a> but this one was absolutely terrible.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur29383646&quot>nkwleeds</a><br><br>&quotI thought the first transformer movie was not <a><b>bad</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur29383646&quot>nkwleeds</a><br><br>&quotWith a movie this <a><b>bad</b></a>, they should at least do us the courtesy of shortening it.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur25560146&quot>mr_wiseguy</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> guys' ultimate plan was to teleport their PLANET to Earth's atmosphere in order to rebuild it."</span>&#8212;<a href="http://www.imdb.com/user/ur15412164">devolucija</a><br/><br/>
+          
+          <span style="font-size:24px">"What a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotWhat a disaster, what a <a><b>waste</b></a> of time.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24766988&quot>LeijonaSisu</a><br><br>&quotThis was still a <a><b>waste</b></a> of my money.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur16209374&quot>icdrgon</a><br><br>&quotWhat a <a><b>waste</b></a> of time and money.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02973485&quot>CAL FORD</a><br><br>&quot*sigh* why did i <a><b>waste</b></a> more than 2 hours with this movie?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26888175&quot>juan zuniga</a>" 
+                     data-original-title="More <b>waste</b> Reviews">
+                     <b>waste</b></a> Of time!"</span>&#8212;<a href="http://www.imdb.com/user/ur19660894">germanflores</a><br/><br/>
+          
+          <span style="font-size:24px">"The action is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe photography is fantastic and the 3d technology is used effectively to create stunning, visually <a><b>amazing</b></a> scenes.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26762430&quot>Freddy Cox</a><br><br>&quotEpic Autobot/Decepticon fight scenes and <a><b>amazing</b></a> transforming sounds.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26919185&quot>Jamie Stronge</a><br><br>&quotThe effects and the set pieces look <a><b>amazing</b></a> here.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur38761939&quot>akik1259</a><br><br>&quotLike the two movies that came before it, &quotTransformers: Dark of the Moon&quot has <a><b>amazing</b></a> visual effects.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur06321000&quot>TheUnknown837-1</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a> in my eyes."</span>&#8212;<a href="http://www.imdb.com/user/ur25425943">dannywales93</a><br/><br/>
+          
+          <span style="font-size:24px">"The soundtrack is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI thought it was going to be <a><b>awesome</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26913261&quot>Tom Rooney</a><br><br>&quotEverything was <a><b>awesome</b></a> except for the Story and some of the acting that was absolutely appalling.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17453850&quot>psysword</a><br><br>&quotThere were hot girls, <a><b>awesome</b></a> cars, unrealistic/exaggerated moments and manly underdogs.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11103569&quot>Starlitelet</a><br><br>&quotIt would have been <a><b>awesome</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur25930246&quot>vsg07</a>" 
+                     data-original-title="More <b>awesome</b> Reviews">
+                     <b>awesome</b></a> but it sounds very very similar to the scores in the Dark Knight and Inception."</span>&#8212;<a href="http://www.imdb.com/user/ur15238191">Hamzakhalid</a><br/><br/>
+          
+          <span style="font-size:24px">"The rest of this movie was <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe acting is just <a><b>awful</b></a>, and Rosie Huntington-Whiteley was used as an eye candy but nothing else.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur41888049&quot>Riddho Haque</a><br><br>&quotAn <a><b>awful</b></a> film that deserves an <a><b>awful</b></a> review: 1 out of 10.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03829133&quot>supah79</a><br><br>&quotplot was <a><b>awful</b></a> until the last part but the damage have already been done.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23112615&quot>khan2705</a><br><br>&quot****May contain spoilers for this <a><b>awful</b></a> movie****.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23749141&quot>adam-scrivner</a>" 
+                     data-original-title="More <b>awful</b> Reviews">
+                     <b>awful</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur02963578">elkabong-dd</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

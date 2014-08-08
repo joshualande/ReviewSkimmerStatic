@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Iron Man 3</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Iron&#32;Man&#32;3"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_1300854.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"All in all, this is as <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotIron Man 3 isn't <a><b>bad</b></a>, but I couldn't help feeling disappointed with the final result.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22590701&quot>Bruno Youn</a><br><br>&quotYou know that very soon things will get serious and <a><b>bad</b></a> for our main characters, the downfall is imminent.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur36309498&quot>Jeff ghelman</a><br><br>&quotI hope all the <a><b>bad</b></a> &quotpress&quot people are giving it won't put you off seeing this film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur33046190&quot>mr-jfirth</a><br><br>&quotIt wasn't a <a><b>bad</b></a> movie it was just not up to (or close to) the first movie's standards.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur37375116&quot>Chris L.</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> or even worse than X-Men: The Last Stand."</span>&#8212;<a href="http://www.imdb.com/user/ur17256192">sirdavidofthecourt</a><br/><br/>
+          
+          <span style="font-size:24px">"It was <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotMovies that give me the <a><b>worst</b></a> impressions on Marvel include Captain America, Spider Man, Fantastic Four, etc.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur35558159&quot>Calvin C Shinobi</a><br><br>&quotAnd Sir Ben Kingsley has chosen the <a><b>worst</b></a> role of his illustrious career.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur31534105&quot>Joaquim Gonsalves</a><br><br>&quotTony is his own <a><b>worst</b></a> enemy.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur16911899&quot>paq5528</a><br><br>&quotEspecially the ones that say it is the <a><b>worst</b></a> super hero movie they have ever seen.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur09669501&quot>martinlutherfan</a>" 
+                     data-original-title="More <b>worst</b> Reviews">
+                     <b>worst</b></a> than Iron Man 2 and i thought that film was bad."</span>&#8212;<a href="http://www.imdb.com/user/ur15131809">JonSnow93</a><br/><br/>
+          
+          <span style="font-size:24px">"Downey's <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI was so excited for this movie and the trailer looked <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur42950632&quot>bianca lee</a><br><br>&quotRDJ really does make the movie though and does an <a><b>amazing</b></a> job of keeping every scene lively and entertaining.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur40535366&quot>etpzachry</a><br><br>&quotTeasers and trailers looked <a><b>amazing</b></a>, everything kids (even big ones like me) wanted.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04666593&quot>Rafael Togami</a><br><br>&quotFavreau, your <a><b>amazing</b></a> and so is Black in his own right.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur31534105&quot>Joaquim Gonsalves</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur22881716">Christian_Dimartino</a><br/><br/>
+          
+          <span style="font-size:24px">"What a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotKingsley's character was a complete <a><b>waste</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur24545445&quot>Swatsmigle</a><br><br>&quotQuite a <a><b>waste</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur40080637&quot>dragonmysterious</a><br><br>&quotMaya/Rebecca Hall: Her character was boring, useless and an absolute <a><b>waste</b></a> of time.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19699286&quot>Movie Critic</a><br><br>&quotI will ensure I <a><b>waste</b></a> some time along with your <a><b>waste</b></a>d talent and budget.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur31534105&quot>Joaquim Gonsalves</a>" 
+                     data-original-title="More <b>waste</b> Reviews">
+                     <b>waste</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur31941895">coljam21</a><br/><br/>
+          
+          <span style="font-size:24px">"Robert Downey Jr. continues to be the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotHis comedic timing is <a><b>perfect</b></a>, and he allows Tony Stark to be lovable while being a total jerk.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur33077048&quot>BeatleFloydZeppelin</a><br><br>&quotThe CGI is near <a><b>perfect</b></a> in this film, and there is a ton of it.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur33077048&quot>BeatleFloydZeppelin</a><br><br>&quotYes, <a><b>perfect</b></a> comic book movies exist.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22881716&quot>Christian_Dimartino</a><br><br>&quotIs Iron Man 3 <a><b>perfect</b></a>?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22881716&quot>Christian_Dimartino</a>" 
+                     data-original-title="More <b>perfect</b> Reviews">
+                     <b>perfect</b></a> Iron Man, I just can't imagine a better suited actor."</span>&#8212;<a href="http://www.imdb.com/user/ur33077048">BeatleFloydZeppelin</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>
