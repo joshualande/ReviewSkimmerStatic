@@ -15,7 +15,7 @@
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
 
-        background: url("../s3-us-west-2.amazonaws.com/reviewskimmer/popcorn-small.jpg") no-repeat center center fixed;
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
                 -webkit-background-size: cover;
                -moz-background-size: cover;
                -o-background-size: cover;
@@ -82,7 +82,7 @@
       </center>
       <div class="row-fluid">
         <div class="span3">
-          <a href="search.html?q=Pirates&#32;of&#32;the&#32;Caribbean:&#32;Dead&#32;Man's&#32;Chest"><img class="img-polaroid" src="../s3-us-west-2.amazonaws.com/reviewskimmer/poster_thumbnail_383574.jpg"></a>
+          <a href="search.html?q=Pirates&#32;of&#32;the&#32;Caribbean:&#32;Dead&#32;Man's&#32;Chest"><img class="img-polaroid" src="media/poster_thumbnail_383574.jpg"></a>
         </div>
         <div class="span9">
           
