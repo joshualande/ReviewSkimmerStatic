@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Spider-Man 3</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Spider-Man&#32;3"><img class="img-polaroid" src="media/poster_thumbnail_413300.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"He just could not pull off the black suit; he wasn't good at being <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotShe just needs to stop doing <a><b>bad</b></a> M. Night Shyamalan films.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02371300&quot>LennyRenquist</a><br><br>&quotThe Score (music): Some parts were OK but some parts were SO <a><b>bad</b></a> it ruined the scene!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00112249&quot>Richard Harris (Norway1)</a><br><br>&quotIt was painfully <a><b>bad</b></a>, screaming out for the audience to be amazed.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00112249&quot>Richard Harris (Norway1)</a><br><br>&quotToo <a><b>bad</b></a> Sam didn't follow his plan.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00112249&quot>Richard Harris (Norway1)</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur09713885">streetcar1951</a><br/><br/>
+          
+          <span style="font-size:24px">"Despite the poor development, the <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotHe gets some of the best lines (as well as some of the <a><b>worst</b></a>).&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur02371300&quot>LennyRenquist</a><br><br>&quotsome even said that it was the <a><b>worst</b></a> movie that they have seen in a long time.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur09410832&quot>Specterno1</a><br><br>&quotUnfortunately, the acting and dialogue is probably the <a><b>worst</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01724073&quot>Jack_Acid</a><br><br>&quotI can't understand why people are ranking the films in best to <a><b>worst</b></a> order.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur12742814&quot>(zippadeedoodau)</a>" 
+                     data-original-title="More <b>worst</b> Reviews">
+                     <b>worst</b></a> part of the movie was the cheesiness."</span>&#8212;<a href="http://www.imdb.com/user/ur11272103">shrek311</a><br/><br/>
+          
+          <span style="font-size:24px">"The makers of "Spider-Man 3" <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotA <a><b>waste</b></a> of time for her actually.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur03609181&quot>skywalker_ep3</a><br><br>&quotIt was really disappointing to see Venom go to <a><b>waste</b></a> like that.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04506876&quot>The_Amazing_Spy_Rises</a><br><br>&quotHe just comes and goes; such a <a><b>waste</b></a> of a character.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur13003529&quot>greenheadjawsuniversal</a><br><br>&quotThis movie was a <a><b>waste</b></a> of my time and i made a list of bad and good things.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur15221702&quot>ivanivanparra</a>" 
+                     data-original-title="More <b>waste</b> Reviews">
+                     <b>waste</b></a> no time in picking up where "Spider-Man 2" left off."</span>&#8212;<a href="http://www.imdb.com/user/ur08329378">HalRagland</a><br/><br/>
+          
+          <span style="font-size:24px">"It's an <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotSurprisingly, the Spidey parts are <a><b>amazing</b></a>: they really add something to the comics.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01803589&quot>leplatypus</a><br><br>&quotI've learned that every time a critic gives a bad review, the movie is usually <a><b>amazing</b></a>!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur05570433&quot>zion0101</a><br><br>&quotHarry's new board is very cool, Venom looked <a><b>amazing</b></a> and Sandman was well sandy.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11701565&quot>brokenyony666</a><br><br>&quot*Spoiler* Spiderman says &quotShazam&quot how <a><b>amazing</b></a> is that.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur11701565&quot>brokenyony666</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a> movie, well worth my time."</span>&#8212;<a href="http://www.imdb.com/user/ur07353139">Skip_4591</a><br/><br/>
+          
+          <span style="font-size:24px">"to me, this is what made this movie so <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotAnd that 'Fever' thing you know - twas <a><b>excellent</b></a>!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur06917884&quot>akaraulov</a><br><br>&quotP.P.S : The incorporation of Venom was <a><b>excellent</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur10410878&quot>dj_wang</a><br><br>&quotMovie is <a><b>excellent</b></a>, the characters are well chosen and it attracts the viewer to the end.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur15226340&quot>Ammar Altahan</a><br><br>&quotsandman is <a><b>excellent</b></a> as well, anharry is <a><b>excellent</b></a> as the vengeful new goblin.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur07046290&quot>jolly_bolton</a>" 
+                     data-original-title="More <b>excellent</b> Reviews">
+                     <b>excellent</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur09410832">Specterno1</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

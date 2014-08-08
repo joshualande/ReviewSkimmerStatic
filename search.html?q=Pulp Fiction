@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Pulp Fiction</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Pulp&#32;Fiction"><img class="img-polaroid" src="media/poster_thumbnail_110912.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"It's filled with dynamite, sudden and always interesting action, great and naturally clever dialogue, and <a id="hover" 
+                     rel="popover" 
+                     data-content="&quot&quot is listed as a <a><b>memorable</b></a> quote, you know how inane the conversation is.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00669141&quot>Bologna King</a>" 
+                     data-original-title="More <b>memorable</b> Reviews">
+                     <b>memorable</b></a> characters."</span>&#8212;<a href="http://www.imdb.com/user/ur00453068">MisterWhiplash</a><br/><br/>
+          
+          <span style="font-size:24px">"A <a id="hover" 
+                     rel="popover" 
+                     data-content="" 
+                     data-original-title="More <b>masterpiece</b> Reviews">
+                     <b>masterpiece</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur00059014">Luke-20</a><br/><br/>
+          
+          <span style="font-size:24px">"I found this movie as a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI'll never say &quotdon't <a><b>waste</b></a> you're time&quot while referring to a movie, cause everybody has different tastes.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00385776&quot>LebowskiT1000</a>" 
+                     data-original-title="More <b>waste</b> Reviews">
+                     <b>waste</b></a> of life."</span>&#8212;<a href="http://www.imdb.com/user/ur23098513">cool_cat_cody</a><br/><br/>
+          
+          <span style="font-size:24px">"The choreography was in a word, <a id="hover" 
+                     rel="popover" 
+                     data-content="" 
+                     data-original-title="More <b>perfect</b> Reviews">
+                     <b>perfect</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur00514818">Andrew Faix (afaix@yahoo.com)</a><br/><br/>
+          
+          <span style="font-size:24px">"Aside from being disappointing and <a id="hover" 
+                     rel="popover" 
+                     data-content="&quot) So yeah Pulp Fiction was <a><b>boring</b></a>, disappointing, confusing, etc.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur25074445&quot>tskivolocki</a><br><br>&quotThe movie SO <a><b>boring</b></a>, uninteresting, and full of a bunch of moronic and trashy characters.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00385776&quot>LebowskiT1000</a><br><br>&quotIn addition, it's also horribly <a><b>boring</b></a> and therefore ridiculously hard to watch.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur44296076&quot>kstroll66</a>" 
+                     data-original-title="More <b>boring</b> Reviews">
+                     <b>boring</b></a> Pulp Fiction was confusing."</span>&#8212;<a href="http://www.imdb.com/user/ur25074445">tskivolocki</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

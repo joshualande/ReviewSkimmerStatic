@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Iron Man 2</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Iron&#32;Man&#32;2"><img class="img-polaroid" src="media/poster_thumbnail_1228705.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"The cast was <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotWhile the cast is immensely pleasing and the effects nearly <a><b>perfect</b></a>, there is just no story here.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20199457&quot>Turtle Heart</a><br><br>&quotFavreau's direction is also <a><b>perfect</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26287567&quot>Iqbali_Noodlepaste</a>" 
+                     data-original-title="More <b>perfect</b> Reviews">
+                     <b>perfect</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur02918635">EddyOne</a><br/><br/>
+          
+          <span style="font-size:24px">"They're all <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotAs previously mentioned Downey Jr. was <a><b>excellent</b></a> and kept his scenes going.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17825945&quot>thesar-2</a><br><br>&quotDowney Junior is still <a><b>excellent</b></a> as Stark and very funny.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20315296&quot>jamiemarks-1</a><br><br>&quotYou will find the same <a><b>excellent</b></a> CGI and even more action.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23348380&quot>Lomedin</a>" 
+                     data-original-title="More <b>excellent</b> Reviews">
+                     <b>excellent</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur20439405">Jackpollins</a><br/><br/>
+          
+          <span style="font-size:24px">"Of course all the special effects are <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotWhen you want an <a><b>amazing</b></a> movie, you find an <a><b>amazing</b></a> bad guy: remember Dark Vador, Terminator or Green Goblin!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01803589&quot>leplatypus</a><br><br>&quotThe action sequences were fun and the special effects were <a><b>amazing</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20315296&quot>jamiemarks-1</a><br><br>&quotGood trashy fun yes, which I enjoyed but it's not as <a><b>amazing</b></a> as people make out.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20315296&quot>jamiemarks-1</a>" 
+                     data-original-title="More <b>amazing</b> Reviews">
+                     <b>amazing</b></a>, with a lot attention to detail."</span>&#8212;<a href="http://www.imdb.com/user/ur02918635">EddyOne</a><br/><br/>
+          
+          <span style="font-size:24px">"And it's not like anything actually happened with them anyway, so why <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThere is so much potential here, that has masterfully been laid to <a><b>waste</b></a> here.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur10748966&quot>id_unplugged</a><br><br>&quotWhat a <a><b>waste</b></a> of money, time and effort.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22605573&quot>zubsero</a><br><br>&quotDon't <a><b>waste</b></a> your time watching this movie!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22573221&quot>transfomers309</a><br><br>&quotA true <a><b>waste</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01530907&quot>poe426</a>" 
+                     data-original-title="More <b>waste</b> Reviews">
+                     <b>waste</b></a> out time and goodwill?"</span>&#8212;<a href="http://www.imdb.com/user/ur07806826">evan_harvey</a><br/><br/>
+          
+          <span style="font-size:24px">") I almost felt <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotI knew it was going to <a><b>bad</b></a>, but I didn't think it would be a crime against nature!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22605573&quot>zubsero</a><br><br>&quotThis is not a <a><b>bad</b></a> movie, is not even a movie really, just a salad of photo-grams and....enough, bye.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur21024894&quot>jmr27</a><br><br>&quotThose <a><b>bad</b></a> guys?&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23014487&quot>steppeck</a><br><br>&quotIf you want to know how <a><b>bad</b></a>, think Will Smith in I Am Legend.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur04728475&quot>Trangor</a>" 
+                     data-original-title="More <b>bad</b> Reviews">
+                     <b>bad</b></a> for her...then I reminded myself that she is Gwyneth Paltrow!"</span>&#8212;<a href="http://www.imdb.com/user/ur00691927">jcdugger</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>

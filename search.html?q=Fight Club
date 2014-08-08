@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ReviewSkimmer.com - find what's good or bad before its too late!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+        background: url("media/popcorn-small.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+               -moz-background-size: cover;
+               -o-background-size: cover;
+               background-size: cover;
+      }
+
+    
+.popover {
+  max-width: 552px;
+  font-size: 14px;
+} 
+
+
+    </style>
+    <link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.reviewskimmer.com/static/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://www.reviewskimmer.com/static/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="index.html">ReviewSkimmer.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="charts.html">Charts</a></li>
+              <li><a href="presentation.html">Presentation</a></li>
+              <li><a href="about.html">About</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+<div class="row">
+  <div class="span10 offset1">
+    <div class="well">
+
+      
+
+      <center>
+        <h1>Fight Club</h1><br/>
+      </center>
+      <div class="row-fluid">
+        <div class="span3">
+          <a href="search.html?q=Fight&#32;Club"><img class="img-polaroid" src="media/poster_thumbnail_137523.jpg"></a>
+        </div>
+        <div class="span9">
+          
+          <span style="font-size:24px">"Edward Norton is <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotare all <a><b>excellent</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01253886&quot>formicidae</a><br><br>&quotHowever he is still <a><b>excellent</b></a> in this film as well.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur13566917&quot>estebangonzalez10</a><br><br>&quotThere is some <a><b>excellent</b></a> acting in this film with a great cast.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17571044&quot>freemantle_uk</a><br><br>&quotAn <a><b>excellent</b></a> film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur17571044&quot>freemantle_uk</a>" 
+                     data-original-title="More <b>excellent</b> Reviews">
+                     <b>excellent</b></a> as Jack, the narrator of the movie."</span>&#8212;<a href="http://www.imdb.com/user/ur00908124">camiloarenivar (camiloarenivar@yahoo.com)</a><br/><br/>
+          
+          <span style="font-size:24px">""Fight Club" an aggressive, confrontational, often brutal satire that is quite possibly a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe direction is incredibly <a><b>brilliant</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur00908124&quot>camiloarenivar (camiloarenivar@yahoo.com)</a><br><br>&quotI saw this quite a long time ago and i think it was exceptionally <a><b>brilliant</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur27585031&quot>moviehavoc</a><br><br>&quotStrangely enough, you don't even know what was so <a><b>brilliant</b></a> about it.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur27698874&quot>Brandon Blackwell</a><br><br>&quotA <a><b>brilliant</b></a>, clever film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur27698874&quot>Brandon Blackwell</a>" 
+                     data-original-title="More <b>brilliant</b> Reviews">
+                     <b>brilliant</b></a> masterpiece."</span>&#8212;<a href="http://www.imdb.com/user/ur00115633">J.D. Lafrance (j.d._lafrance@ridley.on.ca)</a><br/><br/>
+          
+          <span style="font-size:24px">"It works as a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThis movie is a true <a><b>masterpiece</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur26145148&quot>Davyd Teather</a><br><br>&quotThis truly is a <a><b>masterpiece</b></a> and i think it's the best movie made so far.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19945891&quot>greendragon_0</a><br><br>&quotit is a great story and Fincher took Plahnuk's novel and made it into a <a><b>masterpiece</b></a> of a film.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur43974850&quot>Mark Roberts</a><br><br>&quotAlthough the movie has not won any Oscar, it remains to be a <a><b>masterpiece</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur20755885&quot>MovieNewsAndUpdates</a>" 
+                     data-original-title="More <b>masterpiece</b> Reviews">
+                     <b>masterpiece</b></a>."</span>&#8212;<a href="http://www.imdb.com/user/ur27698874">Brandon Blackwell</a><br/><br/>
+          
+          <span style="font-size:24px">"This is a <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe palette used is <a><b>superb</b></a> - bland, subdued, fitting in perfectly with mental illness.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur19341478&quot>adtjoel</a><br><br>&quotI just finished watching this <a><b>superb</b></a> piece of art on my computer.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22255980&quot>d_crashman</a><br><br>&quotAbsolutely incredible movie, <a><b>superb</b></a> casting, and never-before-seen/heard story, Brilliant!&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur22255980&quot>d_crashman</a><br><br>&quotThe acting is <a><b>superb</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur23163730&quot>milagro1975</a>" 
+                     data-original-title="More <b>superb</b> Reviews">
+                     <b>superb</b></a> movie on so many levels."</span>&#8212;<a href="http://www.imdb.com/user/ur19341478">adtjoel</a><br/><br/>
+          
+          <span style="font-size:24px">"Fight Club is one of the most <a id="hover" 
+                     rel="popover" 
+                     data-content="&quotThe movie is loaded with numerous <a><b>unique</b></a> and memorable quotes.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur21202236&quot>Jakemcclake</a><br><br>&quotHere is another one of the movies' <a><b>unique</b></a> quotes that gets shouted more than once:.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur21202236&quot>Jakemcclake</a><br><br>&quotYou are not a beautiful or <a><b>unique</b></a> snowflake.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur21202236&quot>Jakemcclake</a><br><br>&quotThe book is definitely <a><b>unique</b></a>.&quot &#8212; <a href=&quothttp://www.imdb.com/user/ur01235297&quot>tcdarkness</a>" 
+                     data-original-title="More <b>unique</b> Reviews">
+                     <b>unique</b></a> films I have ever seen."</span>&#8212;<a href="http://www.imdb.com/user/ur00104423">(human@alientomato.com)</a><br/><br/>
+          
+        </div>
+      </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42097862-1', 'reviewskimmer.com');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+  <script>
+
+<!-- This black magic came from https://drupal.org/node/1437850 -->
+!function( $ ){
+  $(function () { 
+      $('a[rel=popover]').popover(
+        {placement:'bottom', 
+         trigger:'hover focus',
+         html:'true',
+        }); 
+    });
+}( window.jQuery )
+
+  </script>
+
+
+
+
+  </body>
+</html>
